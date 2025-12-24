@@ -1,6 +1,6 @@
 package com.likelion.vlog.config;
 
-import com.likelion.vlog.entity.User;
+import com.likelion.vlog.entity.entity.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

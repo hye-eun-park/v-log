@@ -3,7 +3,7 @@ package com.likelion.vlog.service;
 import com.likelion.vlog.dto.request.PostCreateRequest;
 import com.likelion.vlog.dto.request.PostUpdateRequest;
 import com.likelion.vlog.dto.response.*;
-import com.likelion.vlog.entity.*;
+import com.likelion.vlog.entity.entity.*;
 import com.likelion.vlog.exception.ForbiddenException;
 import com.likelion.vlog.exception.NotFoundException;
 import com.likelion.vlog.repository.*;

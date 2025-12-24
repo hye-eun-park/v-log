@@ -1,7 +1,7 @@
 package com.likelion.vlog.controller;
 
 import com.likelion.vlog.config.CustomUserDetails;
-import com.likelion.vlog.entity.User;
+import com.likelion.vlog.entity.entity.User;
 import com.likelion.vlog.repository.UserRepository;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
